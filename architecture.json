@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-urban-realism-freedom-constraint",
+  "title": "The Mending of Cora Dawson",
+  "tagline": "In a city of glittering cages, a seamstress's quiet observations become her most dangerous thread.",
+  "target_words": 70000,
+  "actual_words": 75386,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Constraint of Necessity vs. The Freedom of Observation",
+    "Labor as Invisible Architecture",
+    "The Gaze: Who is Seen, Who is Hidden, Who Controls the Frame",
+    "The Illusion of Social Mobility in a Caste-Bound City"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rent in the Dust",
+      "words": 3141
+    },
+    {
+      "ch": 2,
+      "title": "The Black Eye of the Lens",
+      "words": 3141
+    },
+    {
+      "ch": 3,
+      "title": "Ledger and Light",
+      "words": 3141
+    },
+    {
+      "ch": 4,
+      "title": "A Different Frequency",
+      "words": 3141
+    },
+    {
+      "ch": 5,
+      "title": "The Sternberg Seams",
+      "words": 3141
+    },
+    {
+      "ch": 6,
+      "title": "Proofs on the Kitchen Table",
+      "words": 3141
+    },
+    {
+      "ch": 7,
+      "title": "Elsie's Coals",
+      "words": 3141
+    },
+    {
+      "ch": 8,
+      "title": "Mrs. Garrity's Calculus",
+      "words": 3141
+    },
+    {
+      "ch": 9,
+      "title": "The Surveyor's Proposal",
+      "words": 3141
+    },
+    {
+      "ch": 10,
+      "title": "Bargaining with Shadow",
+      "words": 3141
+    },
+    {
+      "ch": 11,
+      "title": "A Parade of Strangers",
+      "words": 3141
+    },
+    {
+      "ch": 12,
+      "title": "The Velvet Jacket's Secret",
+      "words": 3141
+    },
+    {
+      "ch": 13,
+      "title": "Composition and Compromise",
+      "words": 3141
+    },
+    {
+      "ch": 14,
+      "title": "The Bowery's Teeth",
+      "words": 3141
+    },
+    {
+      "ch": 15,
+      "title": "Frayed Reputation",
+      "words": 3141
+    },
+    {
+      "ch": 16,
+      "title": "Developing the Negative",
+      "words": 3141
+    },
+    {
+      "ch": 17,
+      "title": "The Cost of Oil",
+      "words": 3141
+    },
+    {
+      "ch": 18,
+      "title": "A Glimpse of the Darkroom",
+      "words": 3141
+    },
+    {
+      "ch": 19,
+      "title": "The Landlady's Crack",
+      "words": 3141
+    },
+    {
+      "ch": 20,
+      "title": "Fixed Image, Shifting Truth",
+      "words": 3141
+    },
+    {
+      "ch": 21,
+      "title": "The Unmendable Tear",
+      "words": 3141
+    },
+    {
+      "ch": 22,
+      "title": "Exposure",
+      "words": 3141
+    },
+    {
+      "ch": 23,
+      "title": "A Choice of Frames",
+      "words": 3141
+    },
+    {
+      "ch": 24,
+      "title": "The Text of the Street",
+      "words": 3141
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of Mrs. Riordan, the alterations shop owner, as she balances her own precarious ledger of survival and power.",
+      "Imagine a chapter where the man in the expensive, fraying suit from Chapter 1 encounters Cora later in the story. Who is he, and what does his 'fraying' represent?",
+      "Create the photographic survey entry Silas Aldridge would write to accompany a portrait of Cora. What does he see that she does not?",
+      "Write Elsie's internal monologue during a political rally or strike, contrasting her 'hot coal' view of collective action with Cora's observational patience."
+    ],
+    "technical": [
+      "Build a 'Text of the Street' generator that creates a sensory catalog (sights, sounds, smells, textures) for a random Gilded Age city block, filtered through Cora's analytical perspective.",
+      "Design a 'Constraint Engine' interactive narrative where the player, as Cora, must allocate limited resources (time, money, energy) across mending work, household survival, and personal agency, with each choice affecting her relationships and future opportunities."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "Jacob Riis",
+      "Theodore Dreiser",
+      "W.E.B. Du Bois"
+    ]
+  },
+  "cover_prompt": "A young woman, Cora Dawson, sits hunched in a pool of lamplight, her hands paused mid-stitch over a sumptuous gown, her gaze not on her work but lifted towards a grand, unseen party visible only as blurred, golden light through a frosted glass door, her expression one of quiet, penetrating observation. The scene is her cramped, fabric-strewn workroom in the attic of a Gilded Age mansion, walls papered with peeling floral patterns, shelves overflowing with spools of thread and bolts of luxurious silk, a single small window offering a hazy, distant view of the city's glittering skyline, contrasting her world of necessary toil with the world of opulent leisure she services. In the atmospheric style of Edward Hopper, capturing urban solitude and psychological tension, and the detailed textile realism of Daniel F. Gerhartz. Book cover framing, centered composition with a dramatic low-angle view from the sewing table upwards, emphasizing Cora's elevated gaze and the looming door of light. Chiaroscuro lighting with a stark contrast between the warm, diffused gold bleeding from the door and the cool, shadowy blues of her workroom, palette of deep navys, rich velvets, burnished golds, and the pale ivory of the unfinished gown. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
